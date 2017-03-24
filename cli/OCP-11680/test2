@@ -1,4 +1,4 @@
-DMIN_USERNAME=root
+ADMIN_USERNAME=root
 
 ADMIN_PASSWORD="adminpass"
 
